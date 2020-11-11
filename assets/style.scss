@@ -1,0 +1,28 @@
+/* BOOTSTRAP EDITS */
+.navbar-nav {
+    margin-right: none!important;
+    margin-left: auto!important
+}
+.navbar-brand {
+    margin-right: 0!important
+}
+/* PERSONAL EDITS
+/* ->GLOBAL */
+body {
+    background-color: #F0F7F4
+}
+/* ->FOOTER */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #522A27;
+    padding: 25px 10px 25px 10px
+}
+footer a {
+    color: #C73E1D
+}
+footer ul.vertical {
+    list-style-type: none;
+    padding-left: 0
+}
