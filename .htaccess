@@ -1,6 +1,6 @@
 # ERROR xxx REDIRECT URL
-ErrorDocument 404 /404
-ErrorDocument 500 /500
+ErrorDocument 404 /pogchamp%202021/404.html
+ErrorDocument 500 /pogchamp%202021/404.html
 # Add '/CRHS_robotics-2020' for local hosting
 
 # DEFAULT PAGE
